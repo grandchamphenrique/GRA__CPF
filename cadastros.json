@@ -1,0 +1,53 @@
+[
+    {
+        "nome": "João da Silva",
+        "cpf": "12345678901",
+        "idade": 20
+    },
+    {
+        "nome": "Maria Oliveira",
+        "cpf": "23456789012",
+        "idade": 22
+    },
+    {
+        "nome": "Pedro Santos",
+        "cpf": "34567890123",
+        "idade": 19
+    },
+    {
+        "nome": "Ana Souza",
+        "cpf": "45678901234",
+        "idade": 21
+    },
+    {
+        "nome": "Lucas Pereira",
+        "cpf": "56789012345",
+        "idade": 23
+    },
+    {
+        "nome": "Beatriz Costa",
+        "cpf": "67890123456",
+        "idade": 20
+    },
+    {
+        "nome": "Carlos Rodrigues",
+        "cpf": "78901234567",
+        "idade": 24
+    },
+    {
+        "nome": "Juliana Martins",
+        "cpf": "89012345678",
+        "idade": 18
+    },
+    {
+        "nome": "Gabriel Almeida",
+        "cpf": "90123456789",
+        "idade": 22
+    },
+    {
+        "nome": "Larissa Ferreira",
+        "cpf": "01234567890",
+        "idade": 21
+       
+    }
+]
